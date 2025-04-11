@@ -1,2 +1,0 @@
-POST http://localhost:8080/jobs/Test300
-Content-Type: "application/json"
