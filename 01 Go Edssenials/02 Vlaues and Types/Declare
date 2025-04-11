@@ -1,0 +1,12 @@
+we can declare variable by:
+1- var x = 10
+2- x := 10
+3- multiple delarations: var n1,n2,n3 = 1,2,3 or using shourtcut :=
+
+the diffrence is:
+in 1 you can chose what type you want for this var exp: var x float64 = 10 ==> flaot64
+in 2 you make go chose the type automaticly x := 10.3 ==> float64
+
+
+constnat variables:
+const x = 10

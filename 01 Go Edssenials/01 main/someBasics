@@ -1,0 +1,9 @@
+go run name.go
+go mod init something/name
+go build
+go build main.go
+
+how to use "go mod init"
+1- go mod init {name of moudule}
+2- go build
+3- now you can run the file using ./{name of moudule}

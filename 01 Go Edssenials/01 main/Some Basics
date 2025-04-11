@@ -1,0 +1,5 @@
+go run name.go
+go mod init something/name
+go build
+go build main.go
+

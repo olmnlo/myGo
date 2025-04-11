@@ -1,0 +1,8 @@
+For scan you must declare the variable
+var x {type}
+
+fmt.Scan(&x)
+you must use &
+
+Constnat const x = 10
+you can not use it in scan
